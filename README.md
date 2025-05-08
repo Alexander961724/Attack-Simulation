@@ -14,7 +14,7 @@ Two virtual machines (Kali Linux and Windows) were installed and configured in V
 
 # 2️⃣ Connectivity check 🛰️
 Connectivity between the two machines was verified to ensure they could communicate.
-![PingImage](Bank%20Project.png)
+![PingImage](PingFromKali.png)
 # 3️⃣ Port scanning with Nmap 🔎
 Open ports on the Windows machine were identified from the Kali machine.
 
