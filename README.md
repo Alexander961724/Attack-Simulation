@@ -17,6 +17,7 @@ Connectivity between the two machines was verified to ensure they could communic
 ![PingImage](PingFromKali.png)
 # 3️⃣ Port scanning with Nmap 🔎
 Open ports on the Windows machine were identified from the Kali machine.
+![PortScanImage](SCANnmap.png)
 
 # 4️⃣ Payload creation with Metasploit 💣
 A malicious file was generated to establish a reverse shell when executed.
