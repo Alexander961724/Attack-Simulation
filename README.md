@@ -28,6 +28,7 @@ A malicious file was generated to establish a reverse shell when executed.
 
 # 5️⃣ Web server setup with Python 🌐
 The generated file was hosted via a simple HTTP server to be downloaded by the victim.
+![PortScanImage](PYTHON-SERVER.png)
 
 # 6️⃣ File download from the victim 📥
 The Windows machine accessed the attacker's server and downloaded the payload.
