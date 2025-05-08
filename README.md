@@ -46,3 +46,7 @@ Upon execution of the file on Windows, a reverse shell connection was successful
 
 # 9️⃣ SIEM logs 🕵️
 System and check logs.
+# Part-1
+![PortScanImage](LOGS1.png)
+# Part-2
+![PortScanImage](
