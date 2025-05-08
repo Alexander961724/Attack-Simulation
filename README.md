@@ -49,4 +49,4 @@ System and check logs.
 # Part-1
 ![PortScanImage](LOGS1.png)
 # Part-2
-![PortScanImage](
+![PortScanImage](Logs2.png)
