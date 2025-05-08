@@ -44,5 +44,5 @@ Metasploit was configured to listen for the incoming reverse shell connection. C
 Upon execution of the file on Windows, a reverse shell connection was successfully established.
 ![PortScanImage](ConnectionEstablished.png)
 
-# 9️⃣ Active session exploration 🕵️
-Meterpreter commands were used to explore the compromised system and check logs.
+# 9️⃣ SIEM logs 🕵️
+System and check logs.
