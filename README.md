@@ -24,7 +24,7 @@ A malicious file was generated to establish a reverse shell when executed.
 1-METASPLOIT-FRAMEWORK!
 ![PortScanImage](Excecuting-Meta-Exploit-Multihandler.png)
 2-SETTING INFO: LH Y LP.
-![PortScanImage](
+![PortScanImage](SET-INFO-META-ATTACK.png)
 
 # 5️⃣ Web server setup with Python 🌐
 The generated file was hosted via a simple HTTP server to be downloaded by the victim.
