@@ -21,6 +21,10 @@ Open ports on the Windows machine were identified from the Kali machine.
 
 # 4️⃣ Payload creation with Metasploit 💣
 A malicious file was generated to establish a reverse shell when executed.
+1-METASPLOIT-FRAMEWORK!
+![PortScanImage](Excecuting-Meta-Exploit-Multihandler.png)
+2-SETTING INFO: LH Y LP.
+![PortScanImage](
 
 # 5️⃣ Web server setup with Python 🌐
 The generated file was hosted via a simple HTTP server to be downloaded by the victim.
