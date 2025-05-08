@@ -31,7 +31,8 @@ The generated file was hosted via a simple HTTP server to be downloaded by the v
 ![PortScanImage](PYTHON-SERVER.png)
 
 # 6️⃣ File download from the victim 📥
-The Windows machine accessed the attacker's server and downloaded the payload.
+The Windows machine accessed the attacker's server and downloaded the payload. However, the system detected it was not a normal file. 
+![PortScanImage](SitioWEB.png)
 
 # 7️⃣ Listener setup in Metasploit 🎧
 Metasploit was configured to listen for the incoming reverse shell connection. Commands succesfullye executed. 
