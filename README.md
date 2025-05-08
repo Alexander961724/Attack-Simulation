@@ -34,7 +34,8 @@ The generated file was hosted via a simple HTTP server to be downloaded by the v
 The Windows machine accessed the attacker's server and downloaded the payload.
 
 # 7️⃣ Listener setup in Metasploit 🎧
-Metasploit was configured to listen for the incoming reverse shell connection.
+Metasploit was configured to listen for the incoming reverse shell connection. Commands succesfullye executed. 
+![PortScanImage](CONEXION-KALI-ESTABLISHED.png)
 
 # 8️⃣ Payload execution and connection established 🔌
 Upon execution of the file on Windows, a reverse shell connection was successfully established.
